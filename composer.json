@@ -1,0 +1,15 @@
+{
+  "name": "grigorispan/spitogatos-php",
+  "description": "Real estate application",
+  "authors": [
+    {
+      "name": "Grigoris Panagiotopoulos"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
