@@ -1,5 +1,6 @@
 # Assignment - PHP Project
 This project is about an ad management system. It was created with PHP, Javascript, MySQL and TailwindCSS. 
+At this project a user can sign up, log in and create/delete a house ad.  
 
 ## Installing / Getting started
 
